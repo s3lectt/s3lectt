@@ -41,7 +41,7 @@
 # 🚀 Projects:
 Here are a few of my notable projects:
 - [Object-Oriented Programming (OOP) Tutorial](https://github.com/dev-luciolins/oop-tutorial) - A tutorial on OOP concepts using JavaScript.
-- [MTA:SA Slidebar Utility](https://github.com/dev-luciolins/mta-slidebar) - A utility for the MTA:SA framework.
+- [System Monitor](https://https://github.com/dev-luciolins/system-monitor) - A simple application to monitor your system's CPU and memory usage.
 
 # 🌱 Currently Learning:
 I’m currently diving deeper into:
