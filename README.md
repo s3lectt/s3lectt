@@ -1,5 +1,5 @@
 # 🌟 About Me:
-👋 Hi, I’m Lúcio Lins, a full-stack developer with a focus on back-end technologies. I have nearly 4 years of experience in developing complex systems and a strong knowledge in the field. I’m passionate about programming and always seeking new challenges and learning opportunities.
+👋 Hi, I’m Lúcio Lins, a Brazilian full-stack developer with a focus on back-end technologies. I have nearly 4 years of experience in developing complex systems and a strong knowledge in the field. I’m passionate about programming and always seeking new challenges and learning opportunities.
 
 
 # 💻 Skills:
