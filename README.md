@@ -41,7 +41,7 @@
 # 🚀 Projects:
 Here are a few of my notable projects:
 - [Object-Oriented Programming (OOP) Tutorial](https://github.com/dev-luciolins/oop-tutorial) - A tutorial on OOP concepts using JavaScript.
-- [System Monitor](https://https://github.com/dev-luciolins/system-monitor) - A simple application to monitor your system's CPU and memory usage.
+- [System Monitor](https://github.com/dev-luciolins/system-monitor) - A simple application to monitor your system's CPU and memory usage.
 
 # 🌱 Currently Learning:
 I’m currently diving deeper into:
