@@ -40,8 +40,8 @@
 
 # 🚀 Projects:
 Here are a few of my notable projects:
-- [Object-Oriented Programming (OOP) Tutorial](https://github.com/dev-luciolins/oop-tutorial) - A tutorial on OOP concepts using JavaScript.
-- [System Monitor](https://github.com/dev-luciolins/system-monitor) - A simple application to monitor your system's CPU and memory usage.
+- [Object-Oriented Programming (OOP) Tutorial](https://github.com/s3lectt/oop-tutorial) - A tutorial on OOP concepts using JavaScript.
+- [System Monitor](https://github.com/s3lectt/system-monitor) - A simple application to monitor your system's CPU and memory usage.
 
 # 🌱 Currently Learning:
 I’m currently diving deeper into:
@@ -51,8 +51,8 @@ I’m currently diving deeper into:
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dev-luciolins&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-luciolins&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=s3lectt&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=s3lectt&theme=dark&hide_border=true)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-luciolins&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=s3lectt&icon=0&color=0)](https://visitcount.itsvg.in)
